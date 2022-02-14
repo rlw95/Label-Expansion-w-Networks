@@ -1,0 +1,7 @@
+pembrolizumab: [melanoma, NSCLC, SCLC, HNSCC, cHL, PMBCL, urothelial carcinoma, colorectal cancer, gastric cancer, esophageal cancer, cervical cancer, HCC, MCC, RCC, endometrial carcinoma, TMB-H cancer, cSCC, TNBC, MSI-H cancer, dMMR cancer]
+nivolumab: [melanoma, NSCLC, malignant pleural mesothelioma, RCC, cHL, HNSCC, urothelial carcinoma, colorectal cancer, HCC, esophageal cancer]
+cemiplimab: [cSCC, BCC, NSCLC]
+atezolizumab: [urothelial carcinoma, NSCLC, SCLC, HCC, melanoma]
+avelumab: [MCC, urothelial carcinoma, RCC]
+durvalumab: [urothelial carcinoma, NSCLC]
+ipilimumab: [melanoma, RCC]
